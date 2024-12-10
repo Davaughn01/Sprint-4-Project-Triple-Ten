@@ -40,8 +40,8 @@ While the project used a dataset of car sales advertisements, the emphasis was n
 - Created a new web service linked to the GitHub repository in Render.
 - Configured the Render web service to install necessary packages and run the app.py file.
 - Deployed the final version of the application on Render.
-- Verified the application's accessibility at: https://sprint4-ygzc.onrender.com/
+- Verified the application's accessibility.
 
 ## Conclusion
 
-This Streamlit application provides an interactive visualization of the Vehicle dataset. The app was developed as part of practicing software engineering tasks, namely creating Python virtual environments, developing a web application, and deploying it on a cloud service. The app is live and can be accessed [here](https://sprint4-ygzc.onrender.com/).
+This Streamlit application offers an interactive visualization of the Vehicle dataset. It was created as part of a project to practice key software engineering tasks, including setting up Python virtual environments, developing a web application, and deploying it on a cloud service.
